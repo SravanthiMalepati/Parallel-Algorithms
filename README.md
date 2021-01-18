@@ -1,2 +1,2 @@
 # Parallel-Algorithms
-Course work assignemnts and project
+Course work assignemnts,presentation and project
